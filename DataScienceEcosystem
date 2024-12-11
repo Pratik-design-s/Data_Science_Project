@@ -1,0 +1,211 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "DATA SCIENCE TOOLS AND ECOSYSTEM\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "In this notebook, Data Science Tools and Ecosystem are summarized."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Some popular programming languages that data scientists commonly use:\n",
+    "\n",
+    "1.Python\n",
+    "2.R\n",
+    "3.SQL\n",
+    "4.Java\n",
+    "5.Scala\n",
+    "6.Julia\n",
+    "7.MATLAB\n",
+    "8.SAS"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    " Some commonly used libraries by Data Scientists are-\n",
+    "1.Python Libraries:\n",
+    "NumPy\n",
+    "Pandas\n",
+    "Matplotlib\n",
+    "Seaborn\n",
+    "Scikit-learn\n",
+    "TensorFlow\n",
+    "Keras\n",
+    "PyTorch\n",
+    "Statsmodels\n",
+    "NLTK\n",
+    "2.R Libraries:\n",
+    "ggplot2\n",
+    "dplyr\n",
+    "tidyr\n",
+    "caret\n",
+    "shiny\n",
+    "\n",
+    "\n",
+    "\n",
+    "\n",
+    "\n",
+    "\n",
+    "\n",
+    "\n",
+    "\n",
+    "\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    " __Data Science Tools__\n",
+    "| Tool           | Description                             |\n",
+    "|----------------|-----------------------------------------|\n",
+    "| Jupyter Notebook | Interactive computing and visualization |\n",
+    "| RStudio         | Integrated development environment for R |\n",
+    "| Apache Spark    | Distributed data processing framework  |\n",
+    "| Tableau         | Data visualization and business intelligence |\n",
+    "| TensorFlow      | Machine learning and deep learning framework |"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "__Arithmetic Expression Examples__\n",
+    "\n",
+    "1. **Addition**:  \n",
+    "   `5 + 3 = 8`\n",
+    "\n",
+    "2. **Subtraction**:  \n",
+    "   `9 - 4 = 5`\n",
+    "\n",
+    "3. **Multiplication**:  \n",
+    "   `6 * 7 = 42`\n",
+    "\n",
+    "4. **Division**:  \n",
+    "   `20 / 4 = 5`\n",
+    "\n",
+    "5. **Exponentiation**:  \n",
+    "   `2^3 = 8` (or `2**3` in Python)\n",
+    "\n",
+    "6. **Modulus (Remainder)**:  \n",
+    "   `10 % 3 = 1`\n",
+    "\n",
+    "7. **Floor Division**:  \n",
+    "   `10 // 3 = 3` (returns the integer quotient)\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "(15, 7)"
+      ]
+     },
+     "execution_count": 6,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "# Multiplying and adding numbers\n",
+    "\n",
+    "# Define the numbers\n",
+    "a = 5\n",
+    "b = 3\n",
+    "c = 2\n",
+    "\n",
+    "# Perform multiplication and addition\n",
+    "multiplication_result = a * b\n",
+    "addition_result = a + c\n",
+    "\n",
+    "# Display the results\n",
+    "multiplication_result, addition_result"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "2.5"
+      ]
+     },
+     "execution_count": 4,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "# Convert minutes to hours\n",
+    "\n",
+    "# Define the number of minutes\n",
+    "minutes = 150\n",
+    "\n",
+    "# Convert minutes to hours\n",
+    "hours = minutes / 60\n",
+    "\n",
+    "# Display the result\n",
+    "hours"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "__Objectives__\n",
+    "* List popular languages for Data Science\n",
+    "* List popular libraries for Data Science\n",
+    "* List of well known Data Science Tools\n",
+    "* How to provide comments in the cell"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "__Author__ : Pratik Ranjan Nayak"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.11.9"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 4
+}
